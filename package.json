@@ -1,0 +1,7 @@
+{
+  "name": "learning-serverless-resizer-service",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Robert Pelz",
+  "license": "MIT"
+}
