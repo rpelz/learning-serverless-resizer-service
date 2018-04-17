@@ -59,8 +59,8 @@ package:
 #    - exclude-me-dir/**
 
 functions:
-  hello:
-    handler: handler.s3upload
+  resizer:
+    handler: handler.resizer
     events:
       - s3:
           bucket: rpelz-serverless-resizer-service-images
